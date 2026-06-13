@@ -1,0 +1,161 @@
+# Calimshan
+
+Calimshan (pronounced: /ˈkɑːlɪmʃɑːn/ CAL-im-shan) was a nation that covered the southern corner of west Faerûn, including the Calim Desert and the Spider Swamp. Successor of Coramshan, Calimshan's capital was the sprawling port-city of Calimport, home to emperor Syl-Pasha Ralan el Pesarkhal and the many powerful wealthy nobles called pashas.
+
+Other major cities included Memnon and the coastal city of Schamedar .
+
+## Demonym
+
+"Calishite" was the name given to an inhabitant of Calimshan. The term " Calimite " was a severe insult.
+
+Calishite was also used to describe the human ethnicity historically associated with Calimshan.
+
+## Culture
+
+“ Never seen this many flies outside of a Calimshite alehouse. Oh, I don't think the Calimshites would mind, mlady. The way they dress, it be a kindness to talk instead about their foul ale. ” — Tomi Undergallows A pervasive view within Calishite culture held that they were the rightful rulers of all the land south and west of the Sea of Fallen Stars . They had a tendency to look on northern cultures as being short-lived barbarian cultures and barely being worthy of notice. This, however, did not stop them from trading with these nations as they were trading rivals with Waterdeep .
+
+Folklore and storytelling were a common way in Calimshan to transport history. A common saying was: "Never trust the storyteller, but always trust the story." Many of these stories were just folklore and myths, but some stood out. These tales were known as the Founding Stories, The Tales of Terror , The Myth of the Birth of Coin , and Myth of the Four Rivers . Each of these tales where told to have some sense of deeper meaning.
+
+## Economy
+
+### Trade
+
+Like other nations in the Lands of Intrigue, Calimshan depended heavily on trade, and much of its culture was centered on mercantile pursuits.
+
+One of the nation's trade commodities were green Calishite emeralds used primarily in jewelry, some of which could be found in the Western Heartlands and Baldur's Gate .
+
+### Slavery
+
+Slaves were a normal social class in Calimshan for almost all of its history, and they made up a significant part of its population. They had no legal rights or privileges, and were only afforded any dignities by their fellows. Most common slaves were treated as cattle , or worse than cattle, simply due to being worth less than the beasts.
+
+Paid servants remained popular, however, due to being "self managing" compared to slaves.
+
+In addition to being traded or born into the condition, many people were enslaved as legal punishments by courts.
+
+Within this simple category, slaves were informally divided according to their role, prestige, and value:
+
+Labor slaves were relegated to harsh manual labor and were valued the least. Personal slaves were entrusted with the physical care of their owners, and served as their attendants. They were largely responsible for the grooming, styling, fashion, and hygiene of their masters.
+
+House slaves performed all manner of common domestic and bureaucratic tasks. They worked as cooks, cleaners, clerks, administrators, and general servants for households as well as temples, governments, and other organizations.
+
+Mameluks were the slave-soldiers of the Calimshan Empire, with many rising to officer status. After the fall of the Shoon Imperium , they overthrew their lords and banned slavery within the realm.
+
+Harem slaves were chosen for their beauty and were kept in the palatial homes of their wealthy owners. They were used for hedonistic pleasures, as well as for providing extra heirs beyond that of the master's main consort. Because of this special role they were the most valued and most prestigious of slaves, and were provided with amenities and luxuries befitting the upper classes. Some harem slaves could exert a certain level of influence over their masters thanks to their direct contact, but still had the same lack of autonomy and personhood of "lesser" slaves.
+
+## Society
+
+“ Previous reports on the populations living within the syl-pasha's lands were altered ridiculously. As his honorable majesty Syl-Pasha Pesarkhal has deemed it, we have now restored the sensible methods of the Shoon Imperium in counting our people. Whereas before all slaves and dependent rural families were counted among a city's population, we now only consider and count those citizens of worth within a city. The previous corrupt administrations of the Djenispools used those inflated census umbers to excessively tax (and vex) the lesser pashas, vizars, and calephs. The enlightened nature of el Pesarkhal allows all to witness the true nature of Calimshan unclouded by the irrelevancies of the worthless rabble. ” — Vizar Achmed el Imnt , census-taker of Calimport As with the rest of Faerûn, Calimshan was a predominantly human country.
+
+This was even more pronounced in the lands formerly dominated by the sprawling empires of Calim , Calimshan , and Shoon , which tended to slaughter, enslave, and expel non-humans. The shield dwarves of Shanatar were slain and driven out, the elves of Darthiir Wood were destroyed, the halflings of the Purple Hills were expelled, and gnomes fleeing the Fall of Netheril were hunted to death on arrival in the south.
+
+The Calishites were typically shorter than other humans, with darker skin, hair, and eye color too.
+
+Tieflings were common within Calimshan and the south of Faerûn , taking jobs as mercenaries in the late 1400s DR.
+
+The history of the Calishites led them to have deeply rooted ties to the genies that had long since left the lands. The blood of these beings was said to still flow strongly among the Calishites, which sometimes manifested among them as exceptional skill in the arcane arts.
+
+Genasi comprised around half of the area's population in the late 1400s DR, either enslaved or free.
+
+Status was measured not in wealth in and of itself but in the ability to live comfortably off that wealth.
+
+The class system of Calimshan often confined its citizens to the station they were born into. Women were not seen as equals except in underworld trade. Calishites of lower class in the society would often take up adventuring as a way to amass fortune.
+
+## Government
+
+The government of Calimshan was composed of a hierarchical government. The largest of these governments was located in Calimport, the capital, and ruled by a Pasha or Syl-pasha .
+
+However, a variety of powerful individuals, such as military leaders and influential mages, also oversaw legal proceedings and leadership. Major cities within Calimshan— Almraiven , Calimport , Keltar , Manshaka , Memnon , Teshburl , and Volothamp —also had high viziers in leadership roles.
+
+## Geography
+
+From the deserts to the western shores to the swamps in the east and plains in between, Calimshan provided a range of environments, including the Embooli Mountains .
+
+The Marching Mountains were a heavily forested mountain range on the northern border of Calimshan. Three major rivers ran through the range.
+
+Somewhere in the mountains was once a dwarven kingdom called High Shanatar . Like many of the shield dwarf kingdoms this was also abandoned thousands of years ago and forever lost.
+
+The Calim Desert was a rocky desert that spanned much of western Calimshan. A single major highway ran through it from Calimport to Memnon where caravans dodged bandits from various raider factions.
+
+Some of the bluest crystal clear water made up the Shining Sea . The Sea rested south of Calimshan and linked lucrative trade to Chult , the Shaar , Tharsult , and countless other places. The Shining Sea was famous for good reasons, not only as a mercantile hub for wealthy sea captains, but was also a wellspring of and adventure for swashbucklers and corsairs.
+
+## History
+
+Calimshan was an ancient empire with a history that spanned more than nine millennia and was categorized by sages into fifteen periods.
+
+### Ancient
+
+During the oldest known history of the area, the forest of Keltormir covered the land, and elves and giant-kin battled within its depths. Primitive humans migrated to different points around the area while ancient dwarves founded Deep Shanatar .
+
+In −7800 DR , the Djen arrived, along with their human and halfling slaves, in the area around where Calimport would later stand. It was unclear to historians if they hailed from Zakhara or the Elemental Plane of Air . There they founded the Calim Empire , clearing much of the forest as well as driving out the dragons and giants that ruled the area.
+
+After a flight of dragons leveled Calimport for the first time in its history, in −7790 DR , Calim went to war by sending his forces north of the Marching Mountains. After rebuilding Calimport, Calim began a second war against the marid rogues who had entered the Calim Empire. Calim ultimately sank the marid city of Ajhuutal into the sea. By −7690 DR , the Calim Empire had expanded north to the southern banks of the River Agis .
+
+After claiming the land south of the River Agis, Calim negotiated the borders of his kingdom with elves and dwarves .
+
+In −6800 DR , the efreeti Memnon arrived north of the Agis and began constructing the country of Memnonnar . After three centuries, the two civilizations became hostile and the situation came to a head in −6500 DR during the time known as the First Era of Skyfire . That battle lasted four hundred years and so scorched the land that the warring factions inadvertently created the Calim Desert. It only ended with the intervention of elves in −6100 DR who bound Calim and Memnon into a gem known as the Calimemnon Crystal .
+
+### Coramshan
+
+By −6060 DR the last of the genies were driven out by humans and dwarves, and the human nation of Coramshan was founded by Coram the Warrior , combining the remains of the two fallen empires. Calimport was also built around this time. Coramshan underwent many expansions and contractions over the next four-thousand years. Dynastic strife and various other ills ultimately cost Coramshan much of the territory, but it consistently maintained its power by trading goods between predominant powers to the north and south.
+
+Coramshan also saw the rise of the bakkals , priest-kings who worshiped the powers of evil, which greatly soured relations with Shanatar.
+
+After the rise of Jhaamdath around −5800 DR , Coramshan began a struggle with this burgeoning empire over the Lake of Steam .
+
+This was settled in −5005 DR when they signed a truce limiting Coramshan's expansion in that area. Coramshan was also renamed Calimshan around this time when the realm joined with the nation of Mir . Disease was a problem in the early years of Calimshan and many blamed Jhaamdath for spreading it.
+
+### Calimshan United
+
+The Tahvir bakkals were highly expansionistic and pursued the goal of eradication of the dwarves, leading to the abandonment of High Shanatar circa −2600 DR . Seeking to build a great empire, Calimshan was only checked by the elves of the northern forest but to the east, beholder spelljammers crashed into the Alimir Mountains , creating a foe that would plague Calimshan for many millennia to come. The resurgent worship of genies halted expansionism and Calimshan came to venerate the arts.
+
+The dragon Ylveraasahlisar sublimated human rule of Calimshan for over a century when she stole the throne but her slayers were beset by infighting and provoked their elven and beholder neighbours into wars that eventually caused the loss of their northern territories. The beholders gathered a horde of goblins and ogres to conquer every one of Calimshan's cities but were driven out again less than three decades later by the Drakhon warrior-priests who would abandon the concept of bakkals. The resulting peace lasted only a century before the beholders took their revenge, but this time Calimshan was ready for them, ably protecting itself and inspiring a more expansionistic viewpoint once again. However tensions between the military and the merchants, exacerbated by plagues, inhibited any significant gains, despite the military's complete control over the Pasha of Calimshan around −900 DR .
+
+Technological advances like wooden ships allowed Calimshan to explore Chult and Tashalar , as well as trade with their peoples (but always with an eye toward manipulating them), and bronze weaponry was quickly being replaced with iron . These advancements in the mundane tools of war placed Calimshan far ahead of its neighbors. However, in −790 DR , drow from the Underdark began raiding the emirates of Tethyr and Iltkazar in earnest, looking to acquire human slaves. These raids, known as the Night Wars , occupied Calimshan's garrisons, allowing those dissatisfied with the government to begin organized resistance against it. The highlands of Old Iltkazar actually gained their independence during this time and enough rebels fled north into the forests over the next four centuries to lay the foundation for Tethyr to become a nation in its own right.
+
+Despite rebellions in previously secure territory, Calimshan continued to expand, building cities on the western shore of the Lake of Steam , and while a few fell to drow and beholders, enough survived to expand the nation's borders to include that area. Attempts to further extend the borders to the eastern part of the lake were foiled by Jhaamdath and the colonies built there were abandoned. Further setbacks were experienced in the Year of Clutching Dusk, −375 DR , when the Empire Plague killed the pasha, his heirs, and thousands of others. The empire fragmented into independent city-states until the plague played out but then the Tethyrian clans conquered Calimaronn and Myratma , forcing the new pasha to grant independence to Tethyr. An attempt was made to retake Tethyr over half a century later but despite early successes, Tethyr remained free. When the pasha was assassinated a few years later, the military had lost much of its prestige and the realm saw the rise of powerful merchants, priests and wizards, who challenged the absolute rule of the new pasha and led to the deaths of over fifty pashas and many more of their relatives in less than two centuries.
+
+An alliance between Tethyr, Iltkazar and Calimshan was forged to fight off another beholder invasion that threatened all three realms in the Year of Many Eyes, −170 DR . This four-year war, known as the Eye Tyrant Wars , forged an alliance of necessity that quickly frayed once won.
+
+### The Shoon Imperium
+
+The time of the Shoon Imperium was a well-documented period in the history of Calimshan that greatly enhanced its power and influence for over 400 years until Tethyr again asserted its independence, concurrently freeing a new nation in Amn .
+
+### Post-Imperium
+
+Within 100 years of the Imperium's fall, the government of Calimshan fell to its slaves. Slave-warriors known as mameluks , purchased and trained by Shoon nobles unwilling to give up their lives of luxury, were given to the military as levies. However, nobody expected the mameluks to be able to think without orders, so when they revolted, their victory came easily. Calimport was burned to the ground and Manshaka was made the state capital while the eastern cities that survived the Imperium's fall had to fend off humans who had come to worship beholders.
+
+The Rage of Dragons in the Year of the Dracorage, 1018 DR , ended the rule of the mameluks. The wealthy began buying up land, restoring slavery and forging short-lived alliances purely for personal gain. This led to decades of trade wars that destabilized the entire nation with what could be dozens of individuals laying claim to one city.
+
+One man, Saban el Djenispool tried to reunite the nation under him as syl-pasha (chief of pashas) and while he ultimately failed, he did manage to gain the support of each of the city-states pashas that created a status quo that would last for the next two centuries.
+
+Unified in everything but name, Calimshan succeeded in defending against the Black Horde in the Year of the Black Horde, 1235 DR , which was the first time that Calimshan had ever been threatened by orcs . However, most government officials were spending the summer in poorly defended villas at the time of the attacks and the power vacuum that their deaths (including the Syl-Pashas) left caused much turmoil.
+
+Saban's son survived the Black Horde and took his father's throne as Syl-Pasha, ensuring the progression of the Djenispool dynasty. The dynasty's increasing use of magic solidified their power but also allowed for the greater influence of the Twisted Rune . However, those in society who could control their affairs such as Pasha Pook were seen as bastions of stability in a chaotic land and this perception exponentially increased their power. As Tethyr fell to civil war, these 'bastions' kept Calimshan prosperous until the Time of Troubles in the Year of Shadows, 1358 DR .
+
+The Darkstalker Wars allowed for the rise to power of Ralan el Persakhal , who surreptitiously overthrew the Djenispool dynasty, exerting almost complete control over both the government and the criminal underworld of Calimshan.
+
+### Post-Spellplague
+
+After the Spellplague of the Year of Blue Fire, 1385 DR , the Calimemnon Crystal , prison of the efreet Memnon and the djinn Calim , shattered. The released creatures resumed their millennia-old hostilities.
+
+In the wake of the return of Calim and Memnon, many of the residents of Calimshan, presumed to be human, cast off their long-held disguises and revealed themselves to be genasi . These descendants of the elemental powers pledged themselves to either fire or air, took over the cities of Memnon and Calimport , respectively, and joined the war between the efreet and djinns .
+
+With this, the old realm of Calimshan effectively ceased to exist, although the genasi followers of Calim continued to call the region by that name. Meanwhile, the followers of Memnon rejected the name, and instead claimed the whole region to be called Memnonnar. The rest of Faerûn largely continued to refer to the region as Calimshan, although some scholars began to identify it as the Skyfire Emirates .
+
+The Second Era of Skyfire lasted until the Year of Holy Thunder, 1450 DR , when both Memnon and Calim were banished back to Elemental Chaos by an unknown event. They left in their wake a devastated Calimshan, torn apart by the remaining genasi warlords. The genasi of Calimshan became notorious for their treatment of humans as slaves and their constant fighting across the Calim Desert .
+
+The events of the Second Era of Skyfire left the metropolis of Suldolphor a blasted ruin where rogue djinn and efreets still clashed. As of 1479 DR , the last bastion of order in the region lay in the last human-controlled city, the fortress of Almraiven . Once a center magical research, Almraiven weathered the Spellplague and resisted its own genasi uprising. At the time, the Weavepasha protected the city from the ravages of the war that raged across the rest of the land, but his powers were waning.
+
+Well, on second thought, let's not go to Calimport. It is a silly place. By 1489 DR , the human slaves of Calimshan had overthrown their genasi masters with the aid of a Chosen of Ilmater . Though the slaves initially used nonviolent methods in resisting the genasi, their efforts escalated into full rebellion after the Chosen disappeared. These rebellions deposed the genie lords of Calimport and Memnon, sending them either to the Elemental Planes or the deep deserts. Free of their genie masters, the people of Calimshan needed to find new ways to live together and tolerate those genasi who remained. Many Calishites prayed for the Chosen to come back and complete his work.
+
+## Major Cities
+
+- Almraiven
+- Calimport
+- Memnon
+- Suldolphor
+- Manshaka
+
+## Notable Inhabitants
+
+- Artemis Entreri, a notorious assassin

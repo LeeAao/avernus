@@ -1,0 +1,22 @@
+{
+  "source_dir": "Wiki",
+  "docs_dir": "build/mkdocs_docs",
+  "site_dir": "build/site",
+  "exclude_globs": [
+    "**/*для мастера*",
+    "**/*master-only*",
+    "**/*gm-only*",
+    "**/*dm-only*",
+    "**/*secret*",
+    "**/*private*",
+    "**/.*/**",
+    "**/~$*"
+  ],
+  "private_markers": [
+    "publish: false",
+    "wiki-public: false",
+    "visibility: private",
+    "visibility: master"
+  ]
+}
+

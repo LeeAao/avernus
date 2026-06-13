@@ -1,0 +1,12 @@
+build/
+site/
+.cache/
+.tmp/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*для мастера*
+*master-only*
+*gm-only*
+*dm-only*

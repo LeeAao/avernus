@@ -1,0 +1,48 @@
+site_name: Avernus Wiki
+site_description: Веб-вики кампании Avernus
+site_url: ""
+docs_dir: build/mkdocs_docs
+site_dir: build/site
+strict: true
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: deep orange
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+
+plugins:
+  - awesome-pages
+  - search:
+      lang: ru
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+
