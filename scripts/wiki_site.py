@@ -26,6 +26,7 @@ CATEGORY_TITLES = {
 
 ROOT_NAV = [
     "index.md",
+    "Start.md",
     "Overview.md",
     "Timeline.md",
     "Party",
@@ -39,6 +40,7 @@ ROOT_NAV = [
 
 ROOT_TITLES = {
     "index.md": "Главная",
+    "Start.md": "Старт для игроков",
     "Overview.md": "Обзор",
     "Timeline.md": "Хронология",
     "LOG.md": "Журнал обновлений",
@@ -122,8 +124,8 @@ def rewrite_link_destination(dest: str, source_rel: Path) -> str | None:
 
 
 def target_rel_path(rel: Path) -> Path:
-    if rel.as_posix() == "INDEX.md":
-        return Path("index.md")
+    if rel.name == "INDEX.md":
+        return rel.with_name("index.md")
     return rel
 
 
