@@ -39,13 +39,18 @@ Treat these as immutable unless the user explicitly asks to edit them:
 Current structure:
 
 - `Wiki/INDEX.md` is the main directory of wiki pages.
+- `Wiki/STYLE.md` is the page-style guide: template, reliability labels, canonical names, tone.
+- `Wiki/Start.md`, `Wiki/Overview.md`, and `Wiki/Timeline.md` are the top-level entry, summary, and chronology pages.
 - `Wiki/LOG.md` is the chronological, append-only maintenance log.
 - `Wiki/Sources/` stores source digest pages.
 - `Wiki/Cases/` stores investigation pages, case summaries, victim clusters, and evidence trails.
 - `Wiki/Characters/` stores character pages.
 - `Wiki/Places/` stores campaign-location pages.
-- `Wiki/Groups/` stores factions, parties, caravans, and social clusters relevant to the campaign.
-- `Wiki/Themes/` stores recurring ideas, beliefs, conflicts, and motifs.
+- `Wiki/Groups/` stores factions, caravans, and social clusters relevant to the campaign.
+- `Wiki/Party/` stores player-party rosters and session-facing party notes.
+
+There is deliberately no `Wiki/Themes/` directory. It was removed on purpose and must not be
+recreated: the theme material belongs to the dead character Янтарь and lives in `Янтарь/Themes/`.
 
 ## Working Order
 
@@ -63,6 +68,11 @@ When answering campaign questions or maintaining notes, use this order:
 - Prefer many small linked pages over one huge catch-all page.
 - Keep page names stable once created so links remain reliable.
 - When a campaign fact is uncertain, say so directly instead of smoothing it over.
+- `Wiki/` is published as a public site by `.github/workflows`, so pages must not contain
+  absolute local paths (`C:\Users\...`, `G:\My Drive\...`). Cite the `Wiki/Sources/` digest
+  instead, or name the material without a path when no digest exists.
+- Do not link from `Wiki/` to files outside `Wiki/` (for example `../../Лор/...`). Those links
+  are stripped by the site build. Point at a digest page or use plain text.
 
 ## Ingest Workflow
 
@@ -70,7 +80,7 @@ When the user asks to add or process a new source:
 
 1. Read the source file.
 2. Create or update a digest page in `Wiki/Sources/`.
-3. Update all relevant wiki pages in `Wiki/Characters/`, `Wiki/Places/`, `Wiki/Groups/`, and `Wiki/Themes/`.
+3. Update all relevant wiki pages in `Wiki/Characters/`, `Wiki/Places/`, `Wiki/Groups/`, `Wiki/Cases/`, and `Wiki/Party/`.
 4. Update `Wiki/INDEX.md`.
 5. Append a timestamped entry to `Wiki/LOG.md`.
 
@@ -101,3 +111,10 @@ When asked to clean up or health-check the wiki, look for:
 - Contradictions between campaign notes and lore notes.
 - Missing source digests.
 - Stale summaries that no longer match the latest notes.
+- Absolute local paths leaking into published pages.
+- Markdown links pointing outside `Wiki/`.
+- Broken internal links. Note that wiki filenames contain parentheses, so a link checker must
+  handle the `[label](<path (qualifier).md>)` form.
+- Pages still on the old `## Роль` / `## Текущее понимание` template instead of `Wiki/STYLE.md`.
+  Convert these opportunistically, when a page is being touched anyway; do not do a mass
+  mechanical rewrite unless the user asks for one.

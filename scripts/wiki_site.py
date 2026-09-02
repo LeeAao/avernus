@@ -46,7 +46,14 @@ ROOT_TITLES = {
     "LOG.md": "Журнал обновлений",
 }
 
-MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]\n]+)\]\((<)?([^)\n>]+?)(>)?\)")
+# Angle-bracket destinations are matched first: wiki filenames contain parentheses,
+# e.g. [Канализация](<../Places/Канализация (кампания).md>), and a bare-destination
+# pattern would stop at the first inner ")".
+MARKDOWN_LINK_RE = re.compile(
+    r"(?<!!)\[(?P<label>[^\]\n]+)\]\("
+    r"(?:<(?P<angle_dest>[^>\n]+)>|(?P<plain_dest>[^)\n>]*))"
+    r"\)"
+)
 
 
 def load_config() -> dict:
@@ -89,13 +96,17 @@ def has_private_marker(path: Path, markers: list[str]) -> bool:
 
 def rewrite_generated_markdown(text: str, source_rel: Path) -> str:
     def replace_link(match: re.Match[str]) -> str:
-        label, left_angle, dest, right_angle = match.groups()
+        label = match.group("label")
+        angle_dest = match.group("angle_dest")
+        dest = angle_dest if angle_dest is not None else match.group("plain_dest")
         rewritten = rewrite_link_destination(dest, source_rel)
         if rewritten is None:
             return label
         if rewritten == dest:
             return match.group(0)
-        return f"[{label}]({left_angle or ''}{rewritten}{right_angle or ''})"
+        if angle_dest is not None:
+            return f"[{label}](<{rewritten}>)"
+        return f"[{label}]({rewritten})"
 
     return MARKDOWN_LINK_RE.sub(replace_link, text)
 
