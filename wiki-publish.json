@@ -10,7 +10,9 @@
     "**/*secret*",
     "**/*private*",
     "**/.*/**",
-    "**/~$*"
+    "**/~$*",
+    "LOG.md",
+    "STYLE.md"
   ],
   "private_markers": [
     "publish: false",
@@ -19,4 +21,3 @@
     "visibility: master"
   ]
 }
-

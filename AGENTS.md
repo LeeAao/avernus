@@ -118,3 +118,7 @@ When asked to clean up or health-check the wiki, look for:
 - Pages still on the old `## Роль` / `## Текущее понимание` template instead of `Wiki/STYLE.md`.
   Convert these opportunistically, when a page is being touched anyway; do not do a mass
   mechanical rewrite unless the user asks for one.
+
+## Editor Guidance
+
+Before updating, ingesting, or health-checking `Wiki/`, read [docs/wiki-maintenance.md](docs/wiki-maintenance.md) for current-status handling and the separation between reader-facing content and unpublished editor notes.
